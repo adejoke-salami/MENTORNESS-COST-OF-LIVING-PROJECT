@@ -1,1 +1,1 @@
-# MENTORNESS-COST-OF-LIVING-PROJECT
+#This repository contains a comprehensive analysis of the cost of living in various cities around the world. The analysis is based on a dataset that includes prices of common goods and services, as well as living costs, in different cities and countries. The goal is to provide insights into the cost differences across locations and help individuals and organizations make informed decisions. MENTORNESS-COST-OF-LIVING-PROJECT  
